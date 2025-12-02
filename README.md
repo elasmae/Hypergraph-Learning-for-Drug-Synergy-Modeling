@@ -1,3 +1,1 @@
-# Hypergraph-Learning-for-Drug-Synergy-Modeling
-I developed a Multimodal Hypergraph Neural Architecture for Predicting Drug Synergies...
-Our model significantly improved performance on DrugCombDB.
+
